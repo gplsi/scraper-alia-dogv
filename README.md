@@ -81,10 +81,10 @@ El flujo principal de ejecución:
 4. Itera por las páginas de resultados (hasta el límite fijado en el bucle).
 5. Para cada boletín:
     - Abre la tarjeta en una nueva pestaña.
-    - Extrae título, metadatos (<dl>) y contenido.
+    - Extrae título, metadatos (`<dl>`) y contenido.
     - Guarda HTML y TXT en las carpetas correspondientes.
     - Registra la entrada en el índice JSON.
-6. Repite el proceso con la versión en castellano (/es/).
+6. Repite el proceso con la versión en castellano (`/es/`).
 
 ## 🧠 Funcionamiento interno
 ### Inicialización del navegador
@@ -109,7 +109,7 @@ El flujo principal de ejecución:
 ### Extracción de datos
 
 - **Título**: se busca el primer `<h2>` visible.
-- **Metadatos**: se extraen desde la lista de definición `(<dl>)` emparejando `<dt>` y `<dd>`.
+- **Metadatos**: se extraen desde la lista de definición (`<dl>`) emparejando `<dt>` y `<dd>`.
 - **Contenido**: toma el texto del contenedor `div.col-sm-12.col-lg-7.scroll-h-container`.
 - **Guardado**:
     - HTML: se guarda `driver.page_source en dogv/html/<fechas>/<lang>/<ID>.html`.
