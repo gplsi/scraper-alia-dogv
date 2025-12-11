@@ -131,11 +131,11 @@ Cada boletín se añade como un objeto:
 }
 ```
 
-## Funding
+## 💰 Funding
 
 This resource is funded by the *Ministerio para la Transformación Digital y de la Función Pública* — Funded by **EU – NextGenerationEU**, within the framework of the project *Desarrollo de Modelos ALIA*.
 
-## Acknowledgments
+## 🙏 Acknowledgments
 
 We extend our gratitude to all individuals and institutions that contributed to the development of this resource.
 
@@ -146,7 +146,7 @@ Special thanks to:
 
 We also acknowledge the financial, scientific, and technical contributions of the *Ministerio para la Transformación Digital y de la Función Pública – Funded by EU – NextGenerationEU* within the framework of the *Desarrollo de Modelos ALIA* project.
 
-## Reference
+## 📚 Reference
 
 Please cite this dataset using the following BibTeX entry:
 
@@ -160,14 +160,14 @@ Please cite this dataset using the following BibTeX entry:
 }
 ```
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 This resource may contain biases or unintended artifacts.
 Any third party using or deploying systems based on this resource is solely responsible for ensuring compliant, safe, and ethical use, including adherence to relevant AI and data protection regulations.
 
 The University of Alicante, as creator and owner of the resource, assumes no liability for outcomes resulting from third-party use.
 
-## License
+## 📜 License
 
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 
