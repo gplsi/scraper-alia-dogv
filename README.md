@@ -152,7 +152,7 @@ Asimismo, reconocemos las contribuciones financieras, científicas y técnicas d
 Por favor, cita este conjunto de datos usando la siguiente entrada BibTeX:
 
 ```
-@misc{uji_parallel_va_en_2025,
+@misc{scraper_alia_dogv_2025,
   author       = {Espinosa Zaragoza, Sergio and Sep{\'u}lveda Torres, Robiert and Mu{\~n}oz Guillena, Rafael and Consuegra-Ayala, Juan Pablo},
   title        = {ALIA_DOGV Scraper}, 
   year         = {2025},
